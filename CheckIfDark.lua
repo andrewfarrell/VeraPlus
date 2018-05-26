@@ -1,4 +1,4 @@
-
+-- Uses the Brightness Threshold to determine if light should be allowed to turn on
 local Allow = true
 local Block = false
 local BrightnessThreshold = 4
