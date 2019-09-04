@@ -1,6 +1,6 @@
 local BrightnessThreshold = 12
 local LightSensor = 46
-local FrontDoorLight = 13
+local FrontDoorLight = 11
 local HallwayLightKitchen = 89
 local Delay = 120
 
