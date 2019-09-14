@@ -1,3 +1,4 @@
+-- This is a new version of the same file
 local BrightnessThreshold = 200
 local LightSensor = 46
 local FrontDoorLight = 11
