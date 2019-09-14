@@ -1,4 +1,5 @@
 -- This is a new version of the same file
+-- Edited local nac copy
 local BrightnessThreshold = 200
 local LightSensor = 46
 local FrontDoorLight = 11
