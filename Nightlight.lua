@@ -1,6 +1,5 @@
--- This is a new version of the same file
--- Edited local nac copy
-local BrightnessThreshold = 200
+-- This is a new version with check for light already on
+local BrightnessThreshold = 12
 local LightSensor = 46
 local FrontDoorLight = 11
 local HallwayLightKitchen = 89
