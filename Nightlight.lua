@@ -1,5 +1,5 @@
 -- This is a new version with check for light already on
--- This change was made in new-branch
+-- This change was made in new-branch.
 local BrightnessThreshold = 12
 local LightSensor = 46
 local FrontDoorLight = 11
